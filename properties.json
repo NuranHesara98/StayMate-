@@ -1,0 +1,123 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+            "Postalcode area":"BR5",
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
+			"picture":"images/prop_1.jpg",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+            "Postalcode area":"BR6",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"images/prop_2.jpg",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id": "prop3",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 950000,
+            "tenure": "Freehold",
+            "Postalcode area":"BR2",
+            "description": "Spacious four-bedroom detached house with a large garden, garage, and close proximity to schools and transport links. This property features an open-plan living area, a modern kitchen, and a master bedroom with an en-suite.",
+            "location": "Park Avenue, Bromley BR2",
+            "picture": "images/prop_3.jpg",
+            "url": "properties/prop3.html",
+            "added": {
+                "month": "June",
+                "day": 18,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop4",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 275000,
+            "tenure": "Leasehold",
+            "Postalcode area":"BR6",
+            "description": "Modern one-bedroom flat ideal for first-time buyers or investors. Located in a vibrant area with excellent amenities and transport links. Features an open-plan kitchen, living space, and a balcony.",
+            "location": "High Street, Orpington BR6",
+            "picture": "images/prop_4.jpeg",
+            "url": "properties/prop4.html",
+            "added": {
+                "month": "January",
+                "day": 10,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 5,
+            "price": 1250000,
+            "Postalcode area":"BR7",
+            "tenure": "Freehold",
+            "description": "Luxurious five-bedroom house featuring a swimming pool, large garden, and home office. Perfect for a family looking for spacious living in a tranquil area.",
+            "location": "Elm Grove, Chislehurst BR7",
+            "picture": "images/prop_5.jpg",
+            "url": "properties/prop5.html",
+            "added": {
+                "month": "April",
+                "day": 22,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop6",
+            "type": "Flat",
+            "bedrooms": 3,
+            "price": 550000,
+            "tenure": "Leasehold",
+            "Postalcode area":"EC1",
+            "description": "Three-bedroom penthouse flat with stunning city views, modern interiors, and private terrace. Includes a secure parking space and excellent access to public transport.",
+            "location": "City Road, London EC1",
+            "picture": "images/prop_6.jpg",
+            "url": "properties/prop6.html",
+            "added": {
+                "month": "July",
+                "day": 5,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop7",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 450000,
+            "tenure": "Freehold",
+            "Postalcode area":"BR6",
+            "description": "Charming two-bedroom cottage with a beautiful garden, wood-burning stove, and located near picturesque walking trails. Ideal for a small family or retirees.",
+            "location": "The Lane, Farnborough BR6",
+            "picture": "images/prop_7.jpg",
+            "url": "properties/prop7.html",
+            "added": {
+                "month": "May",
+                "day": 30,
+                "year": 2023
+            }
+        }
+	]
+}
